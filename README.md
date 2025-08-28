@@ -1,0 +1,2 @@
+I watched the three-part miniseries The New Edition Story and was fascinated by the music that came to be because of the R&B/pop group. <br>
+Using the Spotify API, I collected and visualized data on New Edition’s discography and the solo/spin-off careers of its members to build a timeline of their musical impact.
